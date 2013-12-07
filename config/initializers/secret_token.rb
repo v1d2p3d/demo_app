@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-DemoApp::Application.config.secret_token = 'c9bc47d36a9a0fc852c273c22658441f9cc347dfc679b13d5f774eac0628b72bcadbfd9f349bfc042d87bb5b4a2bc7be435f2f3060ff1f011fbb751aa914987c'
+PaperclipDemo::Application.config.secret_token = 'f689ffd8635d1c1b12f373932e3f60c761291d06262802808a6f8b44fd05cfc8f85673afac5b4d127941ebc87adf1548fe52ffdd140aa51e2e483c2a9e6872d7'
